@@ -1,0 +1,26 @@
+class City
+{
+public static void main(String args[])
+{
+City text=new City();
+{
+if(text="Mumbai");
+{
+Select text=driver.findElement(By.xpath("");
+text.selectByVisibleText("Mumbai");
+System.out.println("City retrieved from the drop-down value"+text);
+};
+else
+{ try
+{
+Select text=driver.findElement(By.xpath("");
+text.selectByVisibleText("Kokata");
+System.out.println("City retrieved using Multi-value selection"+text);
+assert.assertvalues("Comparison of Expected values"+text);
+catch(Exception e)
+{
+e.PrintStackTrace(Exception e)
+System.out.println("Exception Handled");
+System.out.println("Incorrect Text Retrieved");
+text.city("Mumbai");
+}
