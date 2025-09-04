@@ -1,0 +1,26 @@
+Request Specification res=new RequestSpecification("res");
+Response Output=new ResponseOutput("ro");
+api.POST("http://fileprojects.com"/14/projects.java");
+if(POST="empid")
+body:
+{
+empid:"200";
+empname:"watsonbanz";
+phone:8169691203;
+dept:"IT";
+}
+assert.assertequals("Request Retrieved",+"POST"+200);
+System.out.println("Response Captured: POST Request);
+{
+else
+{
+try
+{
+else
+{
+api.GET("http://fileprojects.com/14/projects.java");
+catch(Exception e);
+e.PrintStackTrace(Exception e);
+System.out.println("Exception Handled");
+System.out.println("GET Request from the User"+"GET"+200);
+}
